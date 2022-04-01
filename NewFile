@@ -1,0 +1,9 @@
+class NewCommit
+{
+@Test 
+public void m1()
+{
+System.out.println("new method created");
+}
+
+}
